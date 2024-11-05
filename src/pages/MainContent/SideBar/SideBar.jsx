@@ -3,7 +3,7 @@ import SideBarItem from '../../../components/SideBarItem'
 
 function SideBar() {
   return (
-    <div className='mt-15 pl-20' >
+    <div className='mt-15  w-[267px]' >
         <SideBarItem name={"Dashboard"} icon={"Dashboard.svg"}/>
         <SideBarItem name={"Learn"} icon={"Learn.svg"}/>
         <SideBarItem name={"Forums"} icon={"Forums.svg"}/>
